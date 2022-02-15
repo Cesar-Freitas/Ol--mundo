@@ -1,2 +1,2 @@
-# Olá mundo
- Passos iniciais no git/github com o professor Guanabara (Curso em Vídeo)
+# Olá, Mundo!
+ Passos iniciais no git/github com o professor Guanabara, por meio das aulas do Curso em Vídeo.
